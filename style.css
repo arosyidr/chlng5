@@ -1,0 +1,144 @@
+/* Navbar */
+.nav-link{
+    margin-left: 13.5px;
+    font-size: 12px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.dropdown-item{
+
+    font-size: 12px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Akhir Navbar */
+
+/* Page 1 */
+.banner1{
+    background: url('Group 1.png') no-repeat center;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    color: white;
+}
+.display-1{
+    letter-spacing: 3px;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 50px;
+}
+.display-2{
+    
+    margin-top: 20px;
+    font-size: 36px;
+}
+
+.btn{
+    font-style: 'Open Sans',sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Page2*/
+.banner2{
+    background: url('the-games-bg.jpg') no-repeat center;
+    background-size: cover;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.carousel{
+    width: 758px;
+    height: 477px;
+    margin-left: 430px;
+}
+.display-3{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    top: 220px;
+}
+.display-4{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    top: 220px;
+}
+/* Akhir page 2 */
+
+/* page 3 */
+.banner3{
+    background: url('features.jpg') no-repeat center;
+    background-size: cover;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+.whats{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+.features{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 165px;
+    bottom: 150px;
+}
+
+.traditional{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+.if-you{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+.game-suit{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+.TBD{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+/* akhir page 3 */
